@@ -12,7 +12,7 @@
                         </h2>
                      </div>
                      <p style="margin-top: 20px;margin-bottom: 30px;">
-                        Vitae fugiat laboriosam officia perferendis provident aliquid voluptatibus dolorem, fugit ullam sit earum id eaque nisi hic? Tenetur commodi, nisi rem vel, ea eaque ab ipsa, autem similique ex unde!
+                        Discover the Farm-to-Table Difference: Our healthy farm is your source for fresh, locally grown produce and sustainably raised meats. Taste the difference of organic, pesticide-free goodness. Join us in supporting a healthier you and a healthier planet
                      </p>
                      <a href="">
                      Shop Now

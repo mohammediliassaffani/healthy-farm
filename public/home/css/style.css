@@ -965,8 +965,7 @@ li.nav-item ul li a:hover, li.nav-item ul li a:focus {
     background: #21db4c;
     text-align: center;
     color: #fff;
-    padding-top: 50px;
-    padding-bottom: 40px;
+   
 }
 
 .inner_page_head h3 {
@@ -978,7 +977,7 @@ li.nav-item ul li a:hover, li.nav-item ul li a:focus {
 
 footer {
     background: #f8f8f8;
-    padding: 90px 0 70px;
+    
 }
 
 .LOGO_footer {
@@ -1103,9 +1102,9 @@ form input[type="submit"]:focus {
 /** cpy **/
 
 .cpy_ {
-    background: #222;
+    background: #21db4c;
     text-align: center;
-    padding: 20px 0;
+    
 }
 
 .cpy_ p {

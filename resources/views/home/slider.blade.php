@@ -17,7 +17,7 @@
                                     On Everything
                                  </h1>
                                  <p>
-                                    Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                                    Discover the Farm-to-Table Difference: Our healthy farm is your source for fresh, locally grown produce and sustainably raised meats. Taste the difference of organic, pesticide-free goodness. Join us in supporting a healthier you and a healthier planet
                                  </p>
                                  <div class="btn-box">
                                     <a href="" class="btn1">
